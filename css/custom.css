@@ -1,0 +1,70 @@
+/*
+	Use this stylesheet for your custom theme styling
+*/
+
+/* ============================================ */
+/*  Desktop version layout (min-width: 1024px)  */
+/* ============================================ */
+
+	body {
+		
+	}
+
+	body.alt { }
+	body.alt #menu1 .border { display: none; }
+	body.alt .border { background: #95A1A7; height:0px; }
+
+	body.alt header { background: url('../images/bg-header-b.png') 0 0 repeat-x;}
+
+	body.alt nav ul li a { color: #FFF; }
+	body.alt nav ul li.current a { color:#133249; }
+	a:visited {  }
+	body.alt a:hover { color:#133249; }
+
+	body.alt .landingContainer {
+		background: url('../images/bg-landing-pic-alt-bw.png') center center no-repeat;
+		height: 590px;
+		border: 10px solid #fff;
+		width: 96%;
+		margin: 1%;
+		padding-top: 180px;
+		padding-bottom: 120px;
+	}
+	
+	
+
+	body.alt h1.landing { color: #8C8D93;}
+	body.alt h2.date { color: #8C8D93; border-color: #8C8D93; margin-top: 7.35em;}
+
+	body.alt #moving-bg { background: url('../images/bg-linen-dark.png') 0 0 repeat fixed; }
+
+	body.alt .row { 
+		background: url('../images/accent-beige.png') 0 0 repeat; }
+
+/* ======================================== */
+/*              Media Queries               */
+/* ======================================== */
+
+@media handheld, only screen and (max-width: 1023px) {
+
+	/* tablet - landscape orientation and below */
+	
+}
+
+@media handheld, only screen and (max-width: 767px) {
+
+	/* tablet - portrait orientation and below */
+	
+}
+
+@media handheld, only screen and (max-width: 480px) {
+
+	/* phone - landscape orientation and below */
+	
+}
+
+@media handheld, only screen and (max-width: 320px) {
+
+	/* phone - portrait orientation and below */
+
+}

@@ -1,0 +1,142 @@
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/*!!!!!!!! DO NOT MODIFY !!!!!!!!!*/
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+/* 
+	THEME NAME: Something Blue Wedding RSVP
+	AUTHOR: OnePageTheme
+	WEBSITE: http://OnePageTheme.com
+	VERSION: 1.0 | 20121210 
+	LICENSE: GPL License http://onepagetheme.com/license-information
+*/
+
+/* ============================================ */
+/*  Desktop version layout (min-width: 1024px)  */
+/* ============================================ */
+
+/* general */
+body { background-color:#e8eced; font-family: 'Fanwood Text', Georgia, "Times New Roman", Times, serif; color:#646464; }
+#moving-bg { background:url('../images/bg-linen.png') 0 0 repeat fixed; width:100%; } /*parallax background*/
+h1, h2, h3, h4, h5, h6 { font-family: 'Dawning of a New Day', cursive; font-weight:normal; }
+h1 { background:url('../images/bg-title.jpg') 1% 60% no-repeat; color:#607a8d; font-size:2.5em; margin-bottom:0; }
+h2 { color:#555555; font-size:2em; }
+p { color:#646464; }
+blockquote { background:url('../images/story-heart.png') center center no-repeat; font-family: 'Dawning of a New Day', cursive; color:#607a8d; font-size: 3em; line-height: .9em; margin: 40% 0 0; padding: 50px 10px 0; text-align: center; height:320px; }
+.credit { clear: both; color: #607A8D; float: left; font-size: 14.4px; line-height: 1.5; text-align: left !important; }
+
+/* link colors */
+a { color:#607a8d; text-decoration:none; -moz-transition: all .3s ease; -webkit-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
+a:visited {  }
+a:hover { color:#607a8d; }
+a:focus {  }
+p a, ul li a { border:1px solid transparent; }
+p a:hover, ul li a:hover { border-bottom:1px solid #607a8d; }
+
+
+/***** HEADER *****/
+header { background:url('../images/bg-header.png') 0 0 repeat-x; height:87px; width:100%; margin-top:30px; position:fixed; z-index:100; }
+.logo { font-family: 'Dawning of a New Day', cursive; font-size:2em; }
+.logo:hover {  }
+nav { width:1140px; margin:0 auto; }
+nav ul { list-style:none; }
+nav ul li { float:left; display:block; height:80px; line-height:80px; margin-left:24px; }
+nav ul li a { color:#7f95a6; font-size:1em; border:none; }
+nav ul li a:hover { color:#133249; text-decoration:none; border:none; }
+nav ul li.current a { color:#133249; }
+
+
+/***** SECTION *****/
+section {  }
+article { padding-left:30px; padding-right:30px; }
+.container { top:0; position:relative; }
+.row { background:url('../images/bg-content.jpg') 0 0 repeat; min-height:600px; padding-bottom:30px; box-shadow: 0 0px 4px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0px 4px rgba(0, 0, 0, 0.2); -webkit-box-shadow: 0 0px 4px rgba(0, 0, 0, 0.2); }
+.border { background:url('../images/bg-floral.png') 0 0 repeat; height:110px; }
+
+/* Landing section */
+.landingContainer { background:url('../images/bg-landing-pic.png') center center no-repeat; height:472px; padding-top:90px; padding-bottom:90px; }
+h1.landing { background:none; font-size:6.875em; color:#607a8d; text-align:center; margin-top:-.8em; margin-bottom:.3em; }
+h2.date { font-size:4em; color:#a0b3c1; text-align:center; font-family: "Times New Roman", Times, serif; white-space:nowrap; 
+			border-top: 5px solid #A0B3C1; border-bottom: 5px solid #A0B3C1; width:360px; margin:6.85em auto 0; }
+h2.rsvpnow { font-size:4.25em; text-align:center; font-family: "Times New Roman", Times, serif; white-space:nowrap; width:360px; margin:0 auto; text-transform:uppercase; }
+h2.rsvpnow a { color:#a0b3c1; }
+h2.rsvpnow a:hover { color:#607a8d; text-decoration:none; } 
+.accent { background:url('../images/accent.png') 0 0 no-repeat; vertical-align:middle; margin-left: 15px; margin-right: 15px; }
+
+/* Story section */
+.story {  }
+.story p {  }
+
+/* Wedding info sections */
+.wedinfo {  }
+.wedinfo h2 { font-family: 'Fanwood Text', Georgia, "Times New Roman", Times, serif; text-align:center; }
+.wedinfo h3 { background:url('../images/icon-thick-arrow.png') center bottom no-repeat; font-size:32px; text-align:center; height:50px; margin:0; }
+.wedinfo p { text-align:center; }
+.wedinfo p a.map img { display:inline; margin-right:6px; }
+.wedinfo p a.map:hover img { position:relative; left:4px; }
+.wedinfo p a.map { border:none; }
+ul.arrow {  }
+ul.arrow li { list-style-image:url('../images/icon-thick-arrow2.png'); margin-left:50px; margin-bottom:10px; }
+ul.plus {  }
+ul.plus li { list-style-image:url('../images/icon-plus.png'); margin-left:50px; margin-bottom:10px; }
+
+/* RSVP section */
+.invitation { background-color:#e9edef; border:20px solid #cdd8de; text-align:center; padding:30px 50px; margin-top:30px; margin-bottom:20px; }
+.invitation h2 { font-family: 'Fanwood Text', Georgia, "Times New Roman", Times, serif; color:#607a8d; margin-top:0; margin-bottom:0.29em; font-size:1.7em; }
+.invitation h3 { color:#607a8d; font-size:3em; line-height:.8em; margin-top:0; }
+.invitation p {  color:#607a8d; margin-bottom:0; }
+form {  }
+form p { color:#607a8d; font-size:1.125em; margin-bottom:0; }
+textarea { height:120px; }
+input, textarea { background-color:#e9edef; border:2px solid #cdd8de; color:#133249; font-family:Arial, Helvetica, sans-serif; font-size:1em; padding:10px; }
+input:focus, textarea:focus { border:2px solid #607a8d; -moz-transition: all .3s ease; -webkit-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
+input[type="text"], textarea { width:95%; }
+input[type="radio"] { float:left; margin-right: 5px; position: relative; top: 4px; }
+.rd { width:60px; float:left; }
+.inpt { margin-bottom:1em; }
+.btn { background:url('../images/btn-submit0.jpg') 0 0 repeat; width:135px; color:#e9edef; border:none; height:40px; line-height:40px; font-family: 'Fanwood Text', Georgia, "Times New Roman", Times, serif; float:right; font-size:1.375em; }
+.btn:hover { background:url('../images/btn-submit1.jpg') 0 0 repeat; color:#45515e; }
+
+
+/***** FOOTER *****/
+footer { background:url('../images/bg-floral.png') 0 0 repeat; height:110px; margin: 0 auto; max-width: 1140px; overflow: hidden; width: 100%;  box-shadow: 0 0px 4px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0px 4px rgba(0, 0, 0, 0.2); -webkit-box-shadow: 0 0px 4px rgba(0, 0, 0, 0.2); }
+footer article { background: rgba(160, 179, 193, .7);width:100%; height:100%;}
+footer p { background: rgba(96, 122, 141, 0.6); color:#e9edef; float: left; margin-top: 40px; padding: 5px 8px; }
+footer p a { color:#e9edef; }
+footer p a:hover { color:#e9edef; border-bottom:1px solid #e9edef; }
+
+
+/* ======================================== */
+/*              Media Queries               */
+/* ======================================== */
+
+@media handheld, only screen and (max-width: 1023px) {
+	h1.landing { margin-top:0.9em; }
+	h2.date { width:320px; }
+	h2.rsvpnow { width:320px; }
+	.invitation { padding:20px; }
+	form p { line-height:1.5em; }
+}
+
+@media handheld, only screen and (max-width: 767px) {
+	nav ul li { margin-left:20px; }
+	article { padding-left:20px; padding-right:20px; }
+}
+
+@media handheld, only screen and (max-width: 480px) {
+	.logo { line-height:45px; }
+	nav { margin:0; float:left; width:100%; }
+	nav ul { margin-top:20px; }
+	nav ul li { height: 100%; line-height: 20px; margin-left: 20px; }
+	h1.landing { font-size:5.5em; }
+}
+
+@media handheld, only screen and (max-width: 320px) {
+	nav ul li { margin-left:10px; }
+	h1.landing { font-size:5em; }
+	h2.date { font-size:3em; width:250px; }
+	h2.rsvpnow { font-size:3.35em; width:250px; }
+	.flex-direction-nav { visibility: hidden; }
+	.flexslider .flex-control-nav { bottom: -80px !important; }
+	.invitation h2 { font-size:1.4em; }
+	footer p { margin-top:30px; }
+}
