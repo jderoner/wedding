@@ -78,7 +78,7 @@
                 </div><!-- .twelvecol -->
             </div><!-- .row -->
         </div><!-- .container #menu1 -->
-        
+        <?php /*
         <div class="container" id="menu2">
             <div class="row editable" id="content-two">
             <div class="border"></div>
@@ -277,7 +277,7 @@
                 </article>
             </div><!-- .row -->
         </div><!-- .container #menu7 -->
-        <?*/?>
+        */?>
         <div class="container editable" id="footer">
         	<footer>
             	<article>
