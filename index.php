@@ -97,7 +97,7 @@ Jason took notice, and matched himself with me since I had been so excited about
 Again, the story should have ended here, but I guess I was feeling really bold and asked Jason if he could walk me through some of the more complicated programming in person. Jason agreed to meet, and to this day, gives me grief about wearing a sequined jacket (it was the holidays!) and bringing my computer and notebook to a bar. 
 </p>
 <p>
-Sequins or not, we hit it off. We shook hands (we both still thought it was a business meeting), and went home for the holidays to tell our respective families about our funny experience. We started emailing back and forth over the break and decided to get together in the new year. We met for drinks at one of our now favorite spots in the city, the Austrian restaurant Edi & The Wolf, because we had discovered that we had both studied abroad in Vienna, Austria. 
+Sequins or not, we hit it off. We shook hands (we both still thought it was a business meeting), and went home for the holidays to tell our respective families about our funny experience. We started emailing back and forth over the break and decided to get together in the new year. We met for drinks at one of our now favorite spots in the city, the Austrian restaurant Edi & The Wolf, because we discovered we both studied abroad in Vienna, Austria. 
 </p>
 <p>
 That night didn’t end with a handshake, but with a kiss! Fast forward to four years later... 
