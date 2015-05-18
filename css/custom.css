@@ -31,12 +31,10 @@
 		padding-bottom: 120px;
 	}
 	
-	
-
 	body.alt h1.landing { color: #8C8D93;}
 	body.alt h2.date { color: #8C8D93; border-color: #8C8D93; margin-top: 7.35em;}
 
-	body.alt #moving-bg { background: rgba(222, 212, 196,.2); }
+	body.alt #moving-bg { background: rgba(222, 212, 196,.2); padding-bottom: 70px; }
 
 	body.alt .row { 
 		background: url('../images/accent-beige.png') 0 0 repeat; }

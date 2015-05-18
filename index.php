@@ -84,22 +84,42 @@
             <div class="border"></div>
             	<article class="story">
                     <h1>Our Story</h1>
-                    <div class="fourcol">
+                    <div class="sixcol">
                     	<h2>How We Met<img src="images/icon-thin-arrow.png" style="margin-left:3px;" /></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum nibh non nunc vulputate congue porta tellus sodales, <a href="#">example of a link</a>. Mauris eget quam id elit consectetur vulputate? Nam eleifend dui vitae mi malesuada mollis. Pellentesque sapien sapien, consequat id gravida non, aliquam in ipsum.</p>
-						<p>In hac habitasse platea dictumst. In venenatis, mi quis rhoncus ultrices, libero libero laoreet tellus; ut mollis nisi turpis at leo. Vestibulum est nisl, bibendum eu consectetur eget, convallis sed purus. Sed nec auctor turpis. Donec pretium placerat nisi.</p>
-						<p>Sed pretium interdum risus. Phasellus auctor tellus auctor diam ultricies et viverra lacus lobortis. Etiam ac porttitor elit. Ut nec hendrerit risus. Vivamus tortor turpis, posuere sed facilisis et, pulvinar id nisi. Nunc mattis condimentum pretium.</p>
-						<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce non interdum sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras non sem sit amet odio consequat gravida non non sem!</p>
+                        <p>To say how we met is a little unconventional would be an understatement, because we met... through Twitter! 
+                        Yes, Twitter. In December 2010, Jason and two friends created “<a href="https://twitter.com/tg_secretsanta" target="_blank">The Great Twitter Secret Santa</a>,” 
+                        a 21st century version of the classic holiday tradition. I still don’t quite remember how I found out about it, or why I thought it was such a fun idea, but I decided to participate... and tweet about it. A LOT. 
+                        </p>
+                        <p>
+Jason took notice, and matched himself with me since I had been so excited about it. The story should have ended there, but I was feeling bold, and asked Jason to help me with my newly designed blog–my logic being that if he could build The Great Twitter Secret Santa, he could help me add some brightly colored buttons to my blog. Jason kindly obliged, and sent over some tips via email. 
+</p>
+<p>
+Again, the story should have ended here, but I guess I was feeling really bold and asked Jason if he could walk me through some of the more complicated programming in person. Jason agreed to meet, and to this day, gives me grief about wearing a sequined jacket (it was the holidays!) and bringing my computer and notebook to a bar. 
+</p>
+<p>
+Sequins or not, we hit it off. We shook hands (we both still thought it was a business meeting), and went home for the holidays to tell our respective families about our funny experience. We started emailing back and forth over the break and decided to get together in the new year. We met for drinks at one of our now favorite spots in the city, the Austrian restaurant Edi & The Wolf, because we had discovered that we had both studied abroad in Vienna, Austria. 
+</p>
+<p>
+That night didn’t end with a handshake, but with a kiss! Fast forward to four years later... 
+
+                        </p>
+
                     </div><!-- .fourcol -->
-                    <div class="fourcol">
-                        <blockquote>"."</blockquote>
-                    </div><!-- .fourcol -->
-                    <div class="fourcol last">
+                    <div class="sixcol last">
                         <h2>The Proposal<img src="images/icon-thin-arrow.png" style="margin-left:3px;" /></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum nibh non nunc vulputate congue porta tellus sodales, <a href="#">example of a link</a>. Mauris eget quam id elit consectetur vulputate? Nam eleifend dui vitae mi malesuada mollis. Pellentesque sapien sapien, consequat id gravida non, aliquam in ipsum.</p>
-						<p>In hac habitasse platea dictumst. In venenatis, mi quis rhoncus ultrices, libero libero laoreet tellus; ut mollis nisi turpis at leo. Vestibulum est nisl, bibendum eu consectetur eget, convallis sed purus. Sed nec auctor turpis. Donec pretium placerat nisi.</p>
-						<p>Sed pretium interdum risus. Phasellus auctor tellus auctor diam ultricies et viverra lacus lobortis. Etiam ac porttitor elit. Ut nec hendrerit risus. Vivamus tortor turpis, posuere sed facilisis et, pulvinar id nisi. Nunc mattis condimentum pretium.</p>
-						<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce non interdum sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras non sem sit amet odio consequat gravida non non sem!</p>
+                        <p>
+                        I love a great surprise, and the proposal was chock full of them. It nearly started with disaster as Allie did not recover well from the NYC Marathon. Had she not finally gone to the doctor and received an IV just 24 hours prior to the proposal weekend, it may not have happened! 
+</p>
+<p>
+On Friday morning, I left a note for Allie and went to the office early. I instructed her to pack her passport and meet me at JFK for a surprise birthday weekend. She would find out later in the morning that we were headed to the North Fork of Long Island, which has been a special place for us ever since Allie surprised me with a day long biking wine tour for my birthday there several years ago.
+</p>
+<p>
+After a (deliberate) failed attempt to go to Allie’s favorite Rosé vineyard, we headed to <a href="https://www.southoldfarmandcellar.com/" target="_blank">Southold Farm and Cellar</a> for a scheduled tasting. Southold Farm and Cellar was started by Regan Meador, the originator of the idea behind The Great Twitter Secret Santa– making it the perfect setting for me to ask Allie to marry me. Regan led us through a private tasting of his wines while I nervously waited for the plan to unfold, which was for Regan to show us his brand new tasting room and “get a phone call.” Regan left, and we found that he had created a beautiful candlelit setting in the upstairs of the converted barn for us. It was there that I asked Allie to be my wife, and we celebrated with a glass of Regan’s own champagne (which he had told us was all gone earlier!).
+</p>
+<p>
+We concluded the evening with a fantastic dinner over more champagne from Southold Farm & Cellar, and the weekend continued with ten of our closest friends arriving by train Saturday morning for an amazing day of wine tasting and great company. I couldn’t have asked for a more perfect weekend and owe a great deal of gratitude to all that contributed to making it one of the happiest memories for Allie and me!
+
+                        </p>
                     </div><!-- .fourcol last -->
                 </article>
             </div><!-- .row -->
