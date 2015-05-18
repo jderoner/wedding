@@ -117,7 +117,7 @@ On Friday morning, I left a note for Allie and went to the office early. I instr
 After a (deliberate) failed attempt to go to Allie’s favorite Rosé vineyard, we headed to <a href="https://www.southoldfarmandcellar.com/" target="_blank">Southold Farm and Cellar</a> for a scheduled tasting. Southold Farm and Cellar was started by Regan Meador, the originator of the idea behind The Great Twitter Secret Santa– making it the perfect setting for me to ask Allie to marry me. Regan led us through a private tasting of his wines while I nervously waited for the plan to unfold, which was for Regan to show us his brand new tasting room and “get a phone call.” Regan left, and we found that he had created a beautiful candlelit setting in the upstairs of the converted barn for us. It was there that I asked Allie to be my wife, and we celebrated with a glass of Regan’s own champagne (which he had told us was all gone earlier!).
 </p>
 <p>
-We concluded the evening with a fantastic dinner over more champagne from Southold Farm & Cellar, and the weekend continued with ten of our closest friends arriving by train Saturday morning for an amazing day of wine tasting and great company. I couldn’t have asked for a more perfect weekend and owe a great deal of gratitude to all that contributed to making it one of the happiest memories for Allie and me!
+We concluded the evening with a fantastic dinner over more champagne from Southold Farm & Cellar, and the weekend continued with ten of our closest friends arriving by train Saturday morning for an amazing day of wine tasting and great company. I couldn’t have asked for a more perfect weekend and owe a great deal of gratitude to all who contributed to making it one of the happiest memories for Allie and me!
 
                         </p>
                     </div><!-- .fourcol last -->
@@ -186,8 +186,7 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
                     <div class="fourcol">
                     	<h2  style="margin-bottom:0;">Ceremony</h2>
                         <h2 style="font-weight: bold; margin-top:0; font-size: 18px;">6 p.m.</h2>
-                        <p>Our wedding celebration will be held on
-							<b>Saturday, November 14, 2015  at 6:00 p.m.</b> 
+                        <p>The ceremony will be held at St John's Episcopal Church
 							in Allie's hometown of Florence, South Carolina.<br/>
                         </p>
                         <p>*Black Tie Optional</p>
@@ -275,7 +274,10 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
                         </ul>
                     </div><!-- .sixcol last -->
             	</article>
+                <h1 style="font-size:5em; text-align: center;margin-top:5em; background: none;">#walkerdowntheaisle</h1>
             </div><!-- .row -->
+
+
         </div><!-- .container #menu6 -->
         
         
@@ -306,7 +308,16 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
    	<!-- Contact form validation scripts -->
         <script src="js/jquery.validationEngine.js" type="text/javascript"></script>
         <script src="js/jquery.validationEngine-en.js" type="text/javascript"></script>	
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-9939073-10', 'auto');
+  ga('send', 'pageview');
+
+</script>
 	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->    
 </body>
 
