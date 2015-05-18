@@ -16,7 +16,7 @@ $(window).load(function(){
 		slideshow: false,						
     	animation: "slide",
         animationLoop: false,
-        //itemWidth: 840,
+        
         start: function(slider){
           $('body').removeClass('loading');
         }

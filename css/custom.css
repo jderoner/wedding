@@ -10,7 +10,7 @@
 		
 	}
 
-	body.alt { }
+	body.alt { background: url('../images/bg-linen-dark.png') 0 0 repeat fixed;}
 	body.alt #menu1 .border { display: none; }
 	body.alt .border { background: #95A1A7; height:0px; }
 
@@ -36,11 +36,13 @@
 	body.alt h1.landing { color: #8C8D93;}
 	body.alt h2.date { color: #8C8D93; border-color: #8C8D93; margin-top: 7.35em;}
 
-	body.alt #moving-bg { background: url('../images/bg-linen-dark.png') 0 0 repeat fixed; }
+	body.alt #moving-bg { background: rgba(222, 212, 196,.2); }
 
 	body.alt .row { 
 		background: url('../images/accent-beige.png') 0 0 repeat; }
 
+	p { font-size: 1.25em;}
+	li { font-size: 1.25em ;}
 /* ======================================== */
 /*              Media Queries               */
 /* ======================================== */

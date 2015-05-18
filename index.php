@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>Something Blue Wedding RSVP</title>
+    <title>Allie and Jason are Getting Married!</title>
     <!-- Copyright Theme Design by OnePageTheme: http://onepagetheme.com -->
 	<!-- Insert META DATA here: description, keywords, author, etc. -->
         <meta name="description" content="Insert your description here" />
@@ -78,24 +78,24 @@
                 </div><!-- .twelvecol -->
             </div><!-- .row -->
         </div><!-- .container #menu1 -->
-        <?php /*
+        
         <div class="container" id="menu2">
             <div class="row editable" id="content-two">
             <div class="border"></div>
             	<article class="story">
                     <h1>Our Story</h1>
                     <div class="fourcol">
-                    	<h2>Hers<img src="images/icon-thin-arrow.png" style="margin-left:3px;" /></h2>
+                    	<h2>How We Met<img src="images/icon-thin-arrow.png" style="margin-left:3px;" /></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum nibh non nunc vulputate congue porta tellus sodales, <a href="#">example of a link</a>. Mauris eget quam id elit consectetur vulputate? Nam eleifend dui vitae mi malesuada mollis. Pellentesque sapien sapien, consequat id gravida non, aliquam in ipsum.</p>
 						<p>In hac habitasse platea dictumst. In venenatis, mi quis rhoncus ultrices, libero libero laoreet tellus; ut mollis nisi turpis at leo. Vestibulum est nisl, bibendum eu consectetur eget, convallis sed purus. Sed nec auctor turpis. Donec pretium placerat nisi.</p>
 						<p>Sed pretium interdum risus. Phasellus auctor tellus auctor diam ultricies et viverra lacus lobortis. Etiam ac porttitor elit. Ut nec hendrerit risus. Vivamus tortor turpis, posuere sed facilisis et, pulvinar id nisi. Nunc mattis condimentum pretium.</p>
 						<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce non interdum sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras non sem sit amet odio consequat gravida non non sem!</p>
                     </div><!-- .fourcol -->
                     <div class="fourcol">
-                        <blockquote>"She came to meet me that faithful day and I fell for her... hard."</blockquote>
+                        <blockquote>"."</blockquote>
                     </div><!-- .fourcol -->
                     <div class="fourcol last">
-                        <h2>His<img src="images/icon-thin-arrow.png" style="margin-left:3px;" /></h2>
+                        <h2>The Proposal<img src="images/icon-thin-arrow.png" style="margin-left:3px;" /></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum nibh non nunc vulputate congue porta tellus sodales, <a href="#">example of a link</a>. Mauris eget quam id elit consectetur vulputate? Nam eleifend dui vitae mi malesuada mollis. Pellentesque sapien sapien, consequat id gravida non, aliquam in ipsum.</p>
 						<p>In hac habitasse platea dictumst. In venenatis, mi quis rhoncus ultrices, libero libero laoreet tellus; ut mollis nisi turpis at leo. Vestibulum est nisl, bibendum eu consectetur eget, convallis sed purus. Sed nec auctor turpis. Donec pretium placerat nisi.</p>
 						<p>Sed pretium interdum risus. Phasellus auctor tellus auctor diam ultricies et viverra lacus lobortis. Etiam ac porttitor elit. Ut nec hendrerit risus. Vivamus tortor turpis, posuere sed facilisis et, pulvinar id nisi. Nunc mattis condimentum pretium.</p>
@@ -116,10 +116,10 @@
                             <li class="repeatable"><img src="images/photos/image2.jpg" /></li>
                             <li class="repeatable"><img src="images/photos/image3.jpg" /></li>
                             <li class="repeatable"><img src="images/photos/image4.jpg" /></li>
-                            <li class="repeatable"><img src="images/photos/image1.jpg" /></li>
-                            <li class="repeatable"><img src="images/photos/image2.jpg" /></li>
-                            <li class="repeatable"><img src="images/photos/image3.jpg" /></li>
-                            <li class="repeatable"><img src="images/photos/image4.jpg" /></li>
+                            <li class="repeatable"><img src="images/photos/image5.jpg" /></li>
+                            <li class="repeatable"><img src="images/photos/image6.jpg" /></li>
+                            <li class="repeatable"><img src="images/photos/image7.jpg" /></li>
+                            <li class="repeatable"><img src="images/photos/image8.jpg" /></li>
                   		</ul>
                 	</div><!-- .flexslider -->
                     
@@ -131,50 +131,62 @@
             <div class="row editable" id="content-four">
             <div class="border"></div>
             	<article class="wedinfo">
-                	<h1>The Wedding</h1>
-                    <div class="sixcol">
-                    	<h2>Ceremony</h2>
-                        <p>Our wedding celebration will be held on<br/>
-							<b>Saturday, November 14, 2015  at 6:00 p.m.</b><br/> 
-							in Allie's hometown of Florence, South Carolina.<br/> 
-							The address is <a href="#">252 Dargan St, Florence SC 29506</a>. 
-						</p><p>Use this page to provide wedding information and also directions (or clues) on how to get to your wedding venue. <b>Tip:</b> Assist your wedding guests by providing them Google Map to the various locations.</p>
-                        <p><a href="https://maps.google.com/maps?q=California,+United+States&hl=en&sll=37.0625,-95.677068&sspn=43.934478,93.076172&oq=cal&t=h&hnear=California&z=6" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Direction</a></p>
+                	<h1>The Wedding Weekend</h1>
+                    <h2 style="font-weight: bold; text-align: left; font-size: 24px;">Friday, November 13th</h2>
+                    <div class="eightcol">
+                        <h2 style="margin-bottom:0;">Welcome Reception</h2>
+                        <h2 style="font-weight: bold; margin-top:0; font-size: 18px;">9:00 - 11:00 p.m.</h2>
+                        <p>Please join us at Allie's childhood home for cocktails and dessert to kick-off our wedding weekend! 
+                        A shuttle will be provided for out of town guests from the Hilton Garden Inn.
+                        </p>
+                        <p><B>Suggested Attire:</B> Coat & Tie
+                        <p>
+                            The address is <a  target="_blank" href="https://www.google.com/maps/place/1525+Tanglewood+Cir,+Florence,+SC+29501/data=!4m2!3m1!1s0x885566c555df3e8f:0x7cdf818f77f62d78">1525 Tanglewood Circle, Florence SC 29506</a>. 
+                        </p>
+                        <p><a href="https://www.google.com/maps/place/1525+Tanglewood+Cir,+Florence,+SC+29501/data=!4m2!3m1!1s0x885566c555df3e8f:0x7cdf818f77f62d78" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Direction</a></p>
                     </div><!-- .sixcol -->
-                    <div class="sixcol last">
-                    	<h2>Reception</h2>
-                        <p>A reception dinner and dance party will immediately follow at<br/>
-                        	 the Waters Building located in downtown Florence, South Carolina.<br/>
-							The address is <a href="#">135 Dargan St, Florence SC 29506</a>. 
+                    <div class="clear"></div>
+                    <h2 style="font-weight: bold; text-align: left; font-size: 24px;">Saturday, November 14th</h2>
+                    <div class="fourcol">
+                        <h2 style="margin-bottom:0;">Wedding Tailgate</h2>
+                        <h2 style="font-weight: bold; margin-top:0; font-size: 18px;">11:00 a.m. - 1:30 p.m.</h2>
+                        <p>There’s nothing like a Southern tailgate! Please join us for a casual brunch at the home of 
+                            Allie’s aunt and uncle, Grace and Pat Patterson. A shuttle will be provided for out of town 
+                            guests from the Hilton Garden Inn.
+
+
+                        <p><B>Suggested Attire:</B> "Snappy" Casual</p>
+                        <p>
+                            The address is <a target="_blank" href="https://www.google.com/maps/place/812+State+Rd+S-21-559,+Florence,+SC+29501/data=!4m2!3m1!1s0x88556728e7a9962f:0x35eb278fe5f69548"> 812 Juanita Drive, Florence SC 29506</a>. 
+                        </p>
+
+                        <p><a href="https://www.google.com/maps/place/812+State+Rd+S-21-559,+Florence,+SC+29501/data=!4m2!3m1!1s0x88556728e7a9962f:0x35eb278fe5f69548" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Direction</a></p>
+                    </div><!-- .sixcol last -->
+                    
+                    <div class="fourcol">
+                    	<h2  style="margin-bottom:0;">Ceremony</h2>
+                        <h2 style="font-weight: bold; margin-top:0; font-size: 18px;">6 p.m.</h2>
+                        <p>Our wedding celebration will be held on
+							<b>Saturday, November 14, 2015  at 6:00 p.m.</b> 
+							in Allie's hometown of Florence, South Carolina.<br/>
+                        </p>
+                        <p>*Black Tie Optional</p>
+                        <p>
+							The address is <a  target="_blank" href="https://www.google.com/maps/place/252+S+Dargan+St,+Florence,+SC+29506/data=!3m2!1e3!4b1!4m2!3m1!1s0x88556714f4206bd7:0x75d56bb67136f573!6m1!1e1?hl=en">252 Dargan St, Florence SC 29506</a>. 
 						</p>
-                        <p><a href="https://maps.google.com/maps?q=California,+United+States&hl=en&sll=37.0625,-95.677068&sspn=43.934478,93.076172&oq=cal&t=h&hnear=California&z=6" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Direction</a></p>
-                    </div><!-- .sixcol last -->
-                    <div class="twelvecol">
-                    	<h2>The Wedding Party</h2>
-                    </div><!-- .twelvecol -->
-                    <div class="sixcol">
-                    	<h3>Bridesmaids</h3>
-                        <div class="flexslider-small">
-                            <ul class="slides">
-                                <li class="repeatable"><span class="caption"><b>Maid of Honor:</b> Maggie Lawrence. She is Sarah's bestfriend and confidante since freshman year in college.</span><img src="images/photos/image5.jpg" /></li>
-                                <li class="repeatable"><span class="caption">Use this caption space to capture information regarding your wedding party. Make sure it's short and sweet.</span><img src="images/photos/image6.jpg" /></li>
-                                <l class="repeatable"i><span class="caption">Use this caption space to capture information regarding your wedding party. Make sure it's short and sweet.</span><img src="images/photos/image7.jpg" /></li>
-                                <li class="repeatable"><span class="caption">Use this caption space to capture information regarding your wedding party. Make sure it's short and sweet.</span><img src="images/photos/image8.jpg" /></li>
-                            </ul>
-                        </div><!-- .flexslider-small -->
+
+                        <p><a href="https://www.google.com/maps/place/252+S+Dargan+St,+Florence,+SC+29506/data=!3m2!1e3!4b1!4m2!3m1!1s0x88556714f4206bd7:0x75d56bb67136f573!6m1!1e1?hl=en" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Direction</a></p>
                     </div><!-- .sixcol -->
-                    <div class="sixcol last">
-                    	<h3>Groomsmen</h3>
-						<div class="flexslider-small">
-                            <ul class="slides">
-                                <li class="repeatable"><span class="caption"><b>Best Man:</b> Steven Smiths. He is Brad's younger brother and lovable trouble-maker.</span><img src="images/photos/image9.jpg" /></li>
-                                <li class="repeatable"><span class="caption">Use this caption space to capture information regarding your wedding party. Make sure it's short and sweet.</span><img src="images/photos/image10.jpg" /></li>
-                                <li class="repeatable"><span class="caption">Use this caption space to capture information regarding your wedding party. Make sure it's short and sweet.</span><img src="images/photos/image11.jpg" /></li>
-                                <li class="repeatable"><span class="caption">Use this caption space to capture information regarding your wedding party. Make sure it's short and sweet.</span><img src="images/photos/image12.jpg" /></li>
-                            </ul>
-                        </div><!-- .flexslider-small -->
+                    <div class="fourcol last">
+                    	<h2 style="margin-bottom:0;">Reception</h2>
+                        <h2 style="font-weight: bold; margin-top:0; font-size: 18px;">7 p.m.</h2>
+                        <p>A reception will follow at <b>7:00 p.m.</b> in 
+                        	 the Waters Building located in downtown Florence, South Carolina.<br/><br/>
+							The address is <a  target="_blank" href="https://www.google.com/maps/place/135+N+Dargan+St,+Florence,+SC+29506/@34.1979601,-79.7664928,869m/data=!3m2!1e3!4b1!4m2!3m1!1s0x88556713beff8aad:0x570e07e9306f7c06!6m1!1e1?hl=en">135 Dargan St, Florence SC 29506</a>. 
+						</p>
+                        <p><a href="https://www.google.com/maps/place/135+N+Dargan+St,+Florence,+SC+29506/data=!3m2!1e3!4b1!4m2!3m1!1s0x88556713beff8aad:0x570e07e9306f7c06!6m1!1e1?hl=en" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Direction</a></p>
                     </div><!-- .sixcol last -->
-                    <p class="credit">*Photography credit: <a href="http://www.behance.net/qstra" target="_blank">Joanna Kustra</a> and <a href="http://istockphoto.com" target="_blank">iStockPhoto</a>. All character names are fictional; any name resemblance to living or dead are pure coincidence. <b>Tip:</b> Try swiping the images on touchscreen devices.</p>
+                    
                 </article>
             </div><!-- .row -->
         </div><!-- .container #menu4 -->
@@ -186,19 +198,34 @@
                 	<h1>Accommodations</h1>
                     <div class="sixcol">
                     	<h2>Accommodations</h2>
-                        <p><b>Hyatt Regency Hotel San Diego</b> is offering us a special rate for all our registered guests. Rooms are available at a discounted rate of $99/night. Suites with adjoining rooms and a foyer are also available for $129 - $219 and can fit 5 - 8 people.</p>
-						<p>Click <a href="#">here</a> to book it online or make a phone reservation by calling 1-800-222-5566, be sure to mention the name <b>"Simons-Smiths Wedding"</b> to get our special rate. The hotel address is <a href="#">56789 Hyatt Regency Ave., San Diego CA 92008</a>.
+                        <p>We have reserved a block of rooms at the <b>Hilton Garden Inn</b> and <b>Hampton Inn</b> for our guests, conveniently located next to each other. All shuttles will depart from the Hilton Garden Inn.
+ Be sure to mention the name <b>"Walker-DeRoner Wedding"</b> to get our special rate.</p>
+
+                        <h2 style="font-size:18px;"><b>Hilton Garden Inn</b></h2>
+						<p>Rooms are available at a discounted rate of $99/night. Click <a href="#">here</a> to book it online or make a phone reservation by calling 1-800-222-5566. The hotel address is <a target="_blank" href="https://www.google.com/maps/place/Hilton+Garden+Inn+Florence/@34.1890667,-79.837314,14z/data=!4m2!3m1!1s0x0:0xd5c8b61a2be66c6c">2671 Hospitality Blvd, Florence, SC 29501</a>.
 </p>
-                        <p><a href="https://maps.google.com/maps?q=California,+United+States&hl=en&sll=37.0625,-95.677068&sspn=43.934478,93.076172&oq=cal&t=h&hnear=California&z=6" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Direction</a></p>
+                        <p><a href="https://www.google.com/maps/place/Hilton+Garden+Inn+Florence/@34.1890667,-79.837314,14z/data=!4m2!3m1!1s0x0:0xd5c8b61a2be66c6c" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Directions</a></p>
+
+                        <h2 style="font-size:18px;"><b>Hampton Inn</b></h2>
+                        <p>Rooms are available at a discounted rate of $99/night and include breakfast. Click <a href="#">here</a> to book it online or make a phone reservation by calling 1-800-222-5566. The hotel address is <a  target="_blank" href="https://www.google.com/maps/place/Hampton+Inn+%26+Suites+Florence+Civic+Center/@34.1847628,-79.8321509,15z/data=!4m5!1m2!2m1!1shampton+Inn+Florence,+sc!3m1!1s0x8855641b69353f8f:0x65f7c64eb6e83e32">3000 West Radio Drive Florence, SC 29501 </a>.
+</p>
+                        <p><a href="https://www.google.com/maps/place/Hampton+Inn+%26+Suites+Florence+Civic+Center/@34.1847628,-79.8321509,15z/data=!4m5!1m2!2m1!1shampton+Inn+Florence,+sc!3m1!1s0x8855641b69353f8f:0x65f7c64eb6e83e32" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Directions</a></p>
+    
                     </div><!-- .sixcol -->
                     <div class="sixcol last">
                     	<h2>Travel Tips</h2>
+                        <p>
+                            We recommend flying to <a href="https://www.google.com/flights/#search;t=FLO;d=2015-11-12;r=2015-11-15" target="_blank">Florence, SC</a>, where you will be greeted with a presidential dismount 
+                            (aka, it’s a tiny plane). If you’re a nervous flyer*, and puddle jumpers aren’t your thing, 
+                            <a href="https://www.google.com/flights/#search;t=MYR;d=2015-11-12;r=2015-11-15" target="_blank">Myrtle Beach, SC</a> and <a href="https://www.google.com/flights/#search;t=CLT;d=2015-11-12;r=2015-11-15" target="_blank">Charlotte, NC</a> offer direct flights from NYC. Myrtle Beach is an approximately 
+                            1.5 hour drive from Florence, and Charlotte is a 2.5 hour drive.
+                        </p>
+                        <p style="font-size:1em">
+
+*if you are a nervous flyer, have a drink at the Whisky River bar in the “E” terminal in Charlotte before you board. It’s a 23 minute flight from takeoff to landing, you’ll be fine!
+                        </p>
                         <ul class="arrow">
-                        	<li>Use this space to provide additional information on your guests' accommodations and it would be nice to throw in other options apart from expensive hotel suites.</li>
-                            <li>Maybe mention about the weather where you'll be hosting your wedding celebration? It'll be nice for them to know what to wear and bring to your wedding location.</li>
-                            <li>Make sure to include a link to <a href="#">map and driving direction</a> just in case. Don't forget to add information on parking too.</li>
-                            <li>Add a contact information so they can send you their inquiries about accommodations.</li>
-                            <li>Any other travel tips for their convenience? Just add them here.</li>
+                        	<li>Given that the airport in Florence has a limited number of flights, please book early if you plan to fly to Florence!</li>
                         </ul>
                     </div><!-- .sixcol last -->
             	</article>
@@ -212,73 +239,27 @@
                 	<h1>Gifts & Registry</h1>
                     <div class="sixcol">
                     	<h2>Gifts</h2>
-                        <p>Their presence at your wedding is nice and all... But feel free to use this space to provide information to your guests on how to they should give you gifts or money for your wedding presents.</p>
-                        <p>Use the column on the side to list out places/stores that you have gift registered for their convenience.</p>
+                        <p>We had so much fun putting together our registry and thinking about how we’ll use each item in our home! We’re registered online at La Terrine and Zola, and have a wishlist at Porter’s Gift Shop in Florence, SC.
+</p>
                     </div><!-- .sixcol -->
                     <div class="sixcol last">
                     	<h2>Registry</h2>
                         <ul class="plus">
-                        	<li>You may give us $$$ for honeymoon via <a href="#">HoneyFund.com</a>.</li>
-                            <li>We are registered at <a href="#">Bed Bath & Beyond</a>.</li>
-                            <li>We are registered at <a href="#">Ikea</a>.</li>
-                            <li>We are registered at <a href="#">GiftRegistry360</a>.</li>
+                        
+                            <li><b><a target="_blank" href="http://www.laterrinedirect.com/allie-walker-and-jason-deroner-registry">La Terrine</a>:</b> Everyday china, stemware, and serving pieces.</li>
+                        	<li><b><a target="_blank" href="https://www.zola.com/registry/allieandjason">Zola</a>:</b> Formal china, stemware, and kitchen & home.</li>
+                            <li><b><a target="_blank" href="http://www.portersgiftshop.com/">Porter’s Gift Shop (no online registry):</a></b> Formal china and stemware.</li>
+                            
+
+
                         </ul>
                     </div><!-- .sixcol last -->
             	</article>
             </div><!-- .row -->
         </div><!-- .container #menu6 -->
-        <?php /*
-        <div class="container" id="menu7">
-            <div class="row editable" id="content-seven">
-            <div class="border"></div>
-            	<article>
-                    <h1 style="letter-spacing:5px;">RSVP</h1>
-                    <div class="threecol">
-                        <p>&nbsp;</p>
-                    </div><!-- .threecol -->
-                    <div class="sixcol">
-                    	<div class="invitation">
-                        	<h2>You are invited to our</h2>
-                            <h3>Wedding Celebration</h3>
-                            <p>Fill out this form and indicate whether you will be joining us on our wedding day. Please RSVP before <b>January 23, 2013</b>. For any question, please email: <a href="mailto:sarahandbrad@youremail.com">sarahandbrad@youremail.com</a></p>
-                        </div><!-- .invitation -->
-                        <form id='rsvpForm' method='post' onsubmit='return false'>
-                        	<div class="inpt">
-                            	<p>Your name:</p>
-                                <input type="text" id="name" name="Name" class='validate[required]' />
-                            </div><!-- .inpt -->
-                            <div class="inpt">
-                                <p>Your email:</p>
-                                <input type="text" id="email" name="Email" class='validate[required,custom[email]]' />                                    
-                            </div><!-- .inpt -->
-                            <div class="inpt clearfix">
-                                <p>Will you be joining us?</p>
-                                <div class="rd"><input type="radio" name="Answer" value="YES" id="yes" class='validate[required]' /><p>Yes</p></div>
-                                <div class="rd"><input type="radio" name="Answer" value="NO" id="no" class='validate[required]' /><p>No</p></div>
-                            </div><!-- .inpt -->
-                            <div class="inpt">
-                                <p>If yes, number of guest(s) attending:</p>
-                                <input type="text" id="guests" name="Guests-Number" style="width:100px;" />
-                            </div><!-- .inpt -->
-                            <div class="inpt">
-                                <p>Full name of guest(s):</p>
-                                <textarea id="guest-names" name="Guests-Names"></textarea>
-                            </div><!-- .inpt -->
-                            <div class="inpt">
-                                <p>Message for us:</p>
-                                <textarea  id="message" name="Message" placeholder="(optional)"></textarea>
-                            </div><!-- .inpt -->
-                                <button type="submit" id="submit" class="btn">Submit</button>
-                    	</form>
-                    </div><!-- .sixcol -->
-                    <div class="threecol last">
-                        <p>&nbsp;</p>
-                    </div><!-- .threecol last -->
-                </article>
-            </div><!-- .row -->
-        </div><!-- .container #menu7 -->
-        */?>
-        <div class="container editable" id="footer">
+        
+        
+        <div class="container editable" style="display:none;" id="footer">
         	<footer>
             	<article>
                 	
