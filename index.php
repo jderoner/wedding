@@ -218,12 +218,12 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
  Be sure to mention the name <b>"WDW15"</b> to get our special rate.</p>
 
                         <h2 style="font-size:18px;"><b>Hilton Garden Inn</b></h2>
-						<p>Rooms are available at a discounted rate of $99/night. Click <a target="_blank" href="http://hiltongardeninn.hilton.com/en/gi/groups/personalized/F/FLOFGGI-WDW15-20151112/index.jhtml?WT.mc_id=POG">here</a> to book it online or make a phone reservation by calling 1-800-222-5566. The hotel address is <a target="_blank" href="https://www.google.com/maps/place/Hilton+Garden+Inn+Florence/@34.1890667,-79.837314,14z/data=!4m2!3m1!1s0x0:0xd5c8b61a2be66c6c">2671 Hospitality Blvd, Florence, SC 29501</a>.
+						<p>Rooms are available at a discounted rate of $99/night. Click <a target="_blank" href="http://hiltongardeninn.hilton.com/en/gi/groups/personalized/F/FLOFGGI-WDW15-20151112/index.jhtml?WT.mc_id=POG">here</a> to book it online or make a phone reservation by calling 843-432-3001. The hotel address is <a target="_blank" href="https://www.google.com/maps/place/Hilton+Garden+Inn+Florence/@34.1890667,-79.837314,14z/data=!4m2!3m1!1s0x0:0xd5c8b61a2be66c6c">2671 Hospitality Blvd, Florence, SC 29501</a>.
 </p>
                         <p><a href="https://www.google.com/maps/place/Hilton+Garden+Inn+Florence/@34.1890667,-79.837314,14z/data=!4m2!3m1!1s0x0:0xd5c8b61a2be66c6c" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Directions</a></p>
 
                         <h2 style="font-size:18px;"><b>Hampton Inn</b></h2>
-                        <p>Rooms are available at a discounted rate of $99/night and include breakfast. Click <a href="#">here</a> to book it online or make a phone reservation by calling 1-800-222-5566. The hotel address is <a  target="_blank" href="https://www.google.com/maps/place/Hampton+Inn+%26+Suites+Florence+Civic+Center/@34.1847628,-79.8321509,15z/data=!4m5!1m2!2m1!1shampton+Inn+Florence,+sc!3m1!1s0x8855641b69353f8f:0x65f7c64eb6e83e32">3000 West Radio Drive Florence, SC 29501 </a>.
+                        <p>Rooms are available at a discounted rate of $99/night and include breakfast. Click <a href="#">here</a> to book it online or make a phone reservation by calling (843) 629-9900. The hotel address is <a  target="_blank" href="https://www.google.com/maps/place/Hampton+Inn+%26+Suites+Florence+Civic+Center/@34.1847628,-79.8321509,15z/data=!4m5!1m2!2m1!1shampton+Inn+Florence,+sc!3m1!1s0x8855641b69353f8f:0x65f7c64eb6e83e32">3000 West Radio Drive Florence, SC 29501 </a>.
 </p>
                         <p><a href="https://www.google.com/maps/place/Hampton+Inn+%26+Suites+Florence+Civic+Center/@34.1847628,-79.8321509,15z/data=!4m5!1m2!2m1!1shampton+Inn+Florence,+sc!3m1!1s0x8855641b69353f8f:0x65f7c64eb6e83e32" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Directions</a></p>
     
@@ -238,7 +238,7 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
                         </p>
                         <p style="font-size:1em">
 
-*if you are a nervous flyer, have a drink at the Whisky River bar in the “E” terminal in Charlotte before you board. It’s a 23 minute flight from takeoff to landing, you’ll be fine!
+*if you're a nervous flyer, have a drink at Whisky River bar in the “E” terminal in Charlotte before you board. It’s a 23 minute flight in the air, you’ll be fine!
                         </p>
                         <ul class="arrow">
                         	<li>Given that the airport in Florence has a limited number of flights, please book early if you plan to fly to Florence!</li>
