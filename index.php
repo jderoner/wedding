@@ -215,10 +215,10 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
                     <div class="sixcol">
                     	<h2>Accommodations</h2>
                         <p>We have reserved a block of rooms at the <b>Hilton Garden Inn</b> and <b>Hampton Inn</b> for our guests, conveniently located next to each other. All shuttles will depart from the Hilton Garden Inn.
- Be sure to mention the name <b>"Walker-DeRoner Wedding"</b> to get our special rate.</p>
+ Be sure to mention the name <b>"WDW15"</b> to get our special rate.</p>
 
                         <h2 style="font-size:18px;"><b>Hilton Garden Inn</b></h2>
-						<p>Rooms are available at a discounted rate of $99/night. Click <a href="#">here</a> to book it online or make a phone reservation by calling 1-800-222-5566. The hotel address is <a target="_blank" href="https://www.google.com/maps/place/Hilton+Garden+Inn+Florence/@34.1890667,-79.837314,14z/data=!4m2!3m1!1s0x0:0xd5c8b61a2be66c6c">2671 Hospitality Blvd, Florence, SC 29501</a>.
+						<p>Rooms are available at a discounted rate of $99/night. Click <a target="_blank" href="http://hiltongardeninn.hilton.com/en/gi/groups/personalized/F/FLOFGGI-WDW15-20151112/index.jhtml?WT.mc_id=POG">here</a> to book it online or make a phone reservation by calling 1-800-222-5566. The hotel address is <a target="_blank" href="https://www.google.com/maps/place/Hilton+Garden+Inn+Florence/@34.1890667,-79.837314,14z/data=!4m2!3m1!1s0x0:0xd5c8b61a2be66c6c">2671 Hospitality Blvd, Florence, SC 29501</a>.
 </p>
                         <p><a href="https://www.google.com/maps/place/Hilton+Garden+Inn+Florence/@34.1890667,-79.837314,14z/data=!4m2!3m1!1s0x0:0xd5c8b61a2be66c6c" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Directions</a></p>
 
