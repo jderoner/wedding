@@ -156,12 +156,11 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
                     <div class="eightcol">
                         <h2 style="margin-bottom:0;">Welcome Reception</h2>
                         <h2 style="font-weight: bold; margin-top:0; font-size: 18px;">9:00 - 11:00 p.m.</h2>
-                        <p>Please join us at Allie's childhood home for cocktails and dessert to kick-off our wedding weekend! 
-                        A shuttle will be provided for out of town guests from the Hilton Garden Inn.
+                        <p>For our out of town guests, welcome to Florence! Please join us at Allie's childhood home for cocktails and dessert to kick-off our wedding weekend. A shuttle will be provided from the Hilton Garden Inn.
                         </p>
                         <p><B>Suggested Attire:</B> Coat & Tie
                         <p>
-                            The address is <a  target="_blank" href="https://www.google.com/maps/place/1525+Tanglewood+Cir,+Florence,+SC+29501/data=!4m2!3m1!1s0x885566c555df3e8f:0x7cdf818f77f62d78">1525 Tanglewood Circle, Florence SC 29506</a>. 
+                            The address is <a  target="_blank" href="https://www.google.com/maps/place/1525+Tanglewood+Cir,+Florence,+SC+29501/data=!4m2!3m1!1s0x885566c555df3e8f:0x7cdf818f77f62d78">1525 Tanglewood Circle, Florence SC 29501</a>. 
                         </p>
                         <p><a href="https://www.google.com/maps/place/1525+Tanglewood+Cir,+Florence,+SC+29501/data=!4m2!3m1!1s0x885566c555df3e8f:0x7cdf818f77f62d78" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Direction</a></p>
                     </div><!-- .sixcol -->
@@ -170,14 +169,12 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
                     <div class="fourcol">
                         <h2 style="margin-bottom:0;">Wedding Tailgate</h2>
                         <h2 style="font-weight: bold; margin-top:0; font-size: 18px;">11:00 a.m. - 1:30 p.m.</h2>
-                        <p>There’s nothing like a Southern tailgate! Please join us for a casual brunch at the home of 
-                            Allie’s aunt and uncle, Grace and Pat Patterson. A shuttle will be provided for out of town 
-                            guests from the Hilton Garden Inn.
+                        <p>There’s nothing like a Southern tailgate! For our out of town guests (yankees!), we'd like to introduce you to the best of the South. Please join us for a casual brunch at the home of Allie’s aunt and uncle, Grace and Pat Patterson. A shuttle will be provided from the Hilton Garden Inn.
 
 
                         <p><B>Suggested Attire:</B> "Snappy" Casual</p>
                         <p>
-                            The address is <a target="_blank" href="https://www.google.com/maps/place/812+State+Rd+S-21-559,+Florence,+SC+29501/data=!4m2!3m1!1s0x88556728e7a9962f:0x35eb278fe5f69548"> 812 Juanita Drive, Florence SC 29506</a>. 
+                            The address is <a target="_blank" href="https://www.google.com/maps/place/812+State+Rd+S-21-559,+Florence,+SC+29501/data=!4m2!3m1!1s0x88556728e7a9962f:0x35eb278fe5f69548"> 812 Juanita Drive, Florence SC 29501</a>. 
                         </p>
 
                         <p><a href="https://www.google.com/maps/place/812+State+Rd+S-21-559,+Florence,+SC+29501/data=!4m2!3m1!1s0x88556728e7a9962f:0x35eb278fe5f69548" target="_blank" class="map"><img src="images/icon-direction.png" /> Map / Direction</a></p>
@@ -186,7 +183,7 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
                     <div class="fourcol">
                     	<h2  style="margin-bottom:0;">Ceremony</h2>
                         <h2 style="font-weight: bold; margin-top:0; font-size: 18px;">6 p.m.</h2>
-                        <p>The ceremony will be held at St John's Episcopal Church
+                        <p>The ceremony will be held at St John's Church
 							in Allie's hometown of Florence, South Carolina.<br/>
                         </p>
                         <p>*Black Tie Optional</p>
@@ -258,7 +255,7 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
                 	<h1>Gifts & Registry</h1>
                     <div class="sixcol">
                     	<h2>Gifts</h2>
-                        <p>We had so much fun putting together our registry and thinking about how we’ll use each item in our home! We’re registered online at La Terrine and Zola, and have a wishlist at Porter’s Gift Shop in Florence, SC.
+                        <p>We had so much fun putting together our registry and thinking about how we’ll use each item in our home! We’re registered online at La Terrine and Zola, and have a wishlist at Porter’s Gift Shop and Celeste Sterling in Florence, SC.
 </p>
                     </div><!-- .sixcol -->
                     <div class="sixcol last">
@@ -267,7 +264,8 @@ We concluded the evening with a fantastic dinner over more champagne from Southo
                         
                             <li><b><a target="_blank" href="http://www.laterrinedirect.com/allie-walker-and-jason-deroner-registry">La Terrine</a>:</b> Everyday china, stemware, and serving pieces.</li>
                         	<li><b><a target="_blank" href="https://www.zola.com/registry/allieandjason">Zola</a>:</b> Formal china, stemware, and kitchen & home.</li>
-                            <li><b><a target="_blank" href="http://www.portersgiftshop.com/">Porter’s Gift Shop (no online registry):</a></b> Formal china and stemware.</li>
+                            <li><b><a target="_blank" href="http://www.portersgiftshop.com/">Porter’s Gift Shop (no online registry, please call):</a></b> Formal china and stemware.</li>
+                            <li><b><a target="_blank" href="http://www.portersgiftshop.com/">Celeste Sterling (no online registry, please call):</a></b> Sterling silver, Chantilly by Gorham.</li>
                             
 
 
